@@ -6,3 +6,11 @@ The obesity epidemic has become one of the most serious public health problems g
 
 ## Goal
 This analysis aims to conduct a statistical analysis based on previous study data on obesity estimation, using the proportional odds model to assess *whether elements discussed in the study significantly predict obesity levels* and *whether the association between those behaviors or physical conditions obesity differs by gender*
+
+## Reference
+
+[1]De-La-Hoz-Correa, E., Mendoza Palechor, F., De-La-Hoz-Manotas, A., Morales Ortega, R., & SÃ¡nchez HernÃ¡ndez, A. B. (2019). Obesity level estimation software based on decision trees.
+
+[2]Palechor, F. M., & de la Hoz Manotas, A. (2019). Dataset for estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and Mexico. Data in Brief, 104344.
+
+[3]Kuźbicka K, Rachoń D. Bad eating habits as the main cause of obesity among children. Pediatr Endocrinol Diabetes Metab. 2013;19(3):106-10. PMID: 25577898.
